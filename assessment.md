@@ -410,17 +410,23 @@ And i use the string function to help me write this code.
 <!-- ANSWER -->
 
 3.  follow a debugging workflow with independent and collaborative strategies
-
 4.  parse and investigate error messages
+<!-- ANSWER -->
 At first, i use the R Markdown. But I found this is something wrong with running it, so i change it to the R script.
+<!-- ANSWER -->
 
 5.  follow a coding style guide
+<!-- ANSWER -->
 I think i follow the coding style guide to make my code clear and i know what i am doing in each step.
+<!-- ANSWER -->
+
 
 ### RStudio & R
 
 6.  customize RStudio
+<!-- ANSWER -->
 I think i customize the rstudio.(by setting the helloworld)
+<!-- ANSWER -->
 
 7.  use BibTeX with `citr` and Zotero integration
 8.  parse and write complex `for` and `while` loops
