@@ -398,14 +398,25 @@ You are not required to demonstrate these objectives in your independent project
 ### Troubleshooting, debugging, and best practices
 
 1.  use frequent, informative comments in code and markdown
+I use comments in the r script to explian why did i wrote each line of the code.
+
 2.  find and understand documentation for R packages and functions
+I understand the documentation for R packages. For example, i know i need to install the packages:lubridate to make dealing with dates a little easier.
+And i use the string function to help me write this code.
+
 3.  follow a debugging workflow with independent and collaborative strategies
+
 4.  parse and investigate error messages
+At first, i use the R Markdown. But I found this is something wrong with running it, so i change it to the R script.
+
 5.  follow a coding style guide
+I think i follow the coding style guide to make my code clear and i know what i am doing in each step.
 
 ### RStudio & R
 
 6.  customize RStudio
+I think i customize the rstudio.(by setting the helloworld)
+
 7.  use BibTeX with `citr` and Zotero integration
 8.  parse and write complex `for` and `while` loops
 9.  create and use intermediate datasets
@@ -447,11 +458,6 @@ Thoughtful reflections may earn engagement points.
 
 
 <!-- Reflection below this line -->
-
-
-
-
-
 
 
 

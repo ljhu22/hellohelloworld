@@ -64,6 +64,6 @@ hello_world("LJ", ymd_hms("2025-02-28 08:30:00"), is_morning = TRUE, return_n_gr
 
 
 # Example 2: Call the function with name "Natalie", a different time, and return 2 greetings
-hello_world("Natalie", ymd_hms("2025-02-28 16:30:00"), is_morning = FALSE, return_n_greetings = 2)
+hello_world("Erica", ymd_hms("2025-02-28 16:30:00"), is_morning = FALSE, return_n_greetings = 2)
 
 
