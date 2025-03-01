@@ -398,11 +398,16 @@ You are not required to demonstrate these objectives in your independent project
 ### Troubleshooting, debugging, and best practices
 
 1.  use frequent, informative comments in code and markdown
+<!-- ANSWER -->
 I use comments in the r script to explian why did i wrote each line of the code.
+<!-- ANSWER -->
 
 2.  find and understand documentation for R packages and functions
+
+<!-- ANSWER -->
 I understand the documentation for R packages. For example, i know i need to install the packages:lubridate to make dealing with dates a little easier.
 And i use the string function to help me write this code.
+<!-- ANSWER -->
 
 3.  follow a debugging workflow with independent and collaborative strategies
 
